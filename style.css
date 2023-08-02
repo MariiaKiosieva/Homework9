@@ -1,0 +1,124 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    padding: 20px;
+    color: #999;
+}
+
+.main{
+    padding: 30px;
+    border-radius: 10px;
+    border: 1px solid rgb(176, 203, 212);
+    box-shadow: 0 0 10px 10px rgb(164, 228, 249);
+}
+
+.header{
+    background-color: lightblue;
+    border-radius: 10px;
+    color: white;
+    height: 250px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+h1{
+    font-size: 64px;
+}
+
+#block{
+    padding-top: 10px;
+}
+
+.name_input  input{
+    width: 100%;
+    padding: 5px;
+    border: 1px solid lightslategray;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+
+#email{
+    width: 100%;
+    padding: 5px;
+    border: 1px solid lightslategray;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+
+#phone{
+    width: 100%;
+    padding: 5px;
+    border: 1px solid lightslategray;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+
+#q1{
+    width: 100%;
+    padding: 5px;
+    border: 1px solid lightslategray;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+
+#q2{
+    width: 100%;
+    padding: 5px;
+    border: 1px solid lightslategray;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+
+#q3{
+    width: 100%;
+    padding: 5px;
+    border: 1px solid lightslategray;
+    border-radius: 5px;
+    margin: 5px 0;
+}
+
+#quest4{
+    color:#1576c5;
+}
+
+#chk1,
+#chk2,
+#chk3{
+    margin: 10px 0;
+}
+
+#radio1,
+#radio2,
+#radio3{
+    margin: 10px 0;
+}
+
+#q4{
+    width: 100%;
+    padding: 5px;
+    border: 1px solid lightslategray;
+    border-radius: 5px;
+    margin: 5px 0; 
+}
+
+button{
+    width: 150px;
+    display: block;
+    margin:0 auto;
+    background-color:#1b82be;
+    text-decoration: none;
+    margin-top: 10px;
+    padding:12px 24px;
+    color: #fff;
+    border:none;
+    border-radius:3px;
+    box-shadow: 0px 0px 2px 2px rgb(0,0,0);
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
+
